@@ -29,9 +29,17 @@ A modern, responsive, and pixel-perfect website layout for a fast food restauran
 | Desktop | Tablet | Mobile |
 |---------|--------|-------------|
 | ![Desktop Hero](images/screenshots/desktop-hero.jpg) | ![Tablet Hero](images/screenshots/tablet-hero.jpg) | ![Mobile Hero](images/screenshots/phone-hero.jpg) |
-| *Main screen* | *Tablet version* | *Mobile version* |
-| ![Desktop Foodlist](images/screenshots/desktop-foodlist.jpg) | ![Tablet Foodlist](images/screenshots/tablet-foodlist.jpg) | ![Mobile Foodlist](images/screenshots/phone-foodlist.jpg) (images/screenshots/phone-foodlist-2.jpg) |
+| *Desktop Hero* | *Tablet Hero* | *Mobile Hero* |
+| ![Desktop Foodlist](images/screenshots/desktop-foodlist.jpg) | ![Tablet Foodlist](images/screenshots/tablet-foodlist.jpg) | ![Mobile Foodlist](images/screenshots/phone-foodlist.jpg) |
 | *Desktop Foodlist* | *Tablet Foodlist* | *Mobile Foodlist* |
+| ![Desktop Order](images/screenshots/desktop-order.jpg) | ![Tablet Order](images/screenshots/tablet-order.jpg) | ![Mobile Order](images/screenshots/phone-order.jpg) |
+| *Desktop Order* | *Tablet Order* | *Mobile Order* |
+| ![Desktop Products](images/screenshots/desktop-products.jpg) | ![Tablet Products](images/screenshots/tablet-products.jpg) | ![Mobile Products](images/screenshots/phone-products.jpg) |
+| *Desktop Products* | *Tablet Products* | *Mobile Products* |
+| ![Desktop Feedback](images/screenshots/desktop-feedback.jpg) | ![Tablet Feedback](images/screenshots/tablet-feedback.jpg) | ![Mobile Feedback](images/screenshots/phone-feedback.jpg) |
+| *Desktop Feedback* | *Tablet Feedback* | *Mobile Feedback* |
+| ![Desktop Footer](images/screenshots/desktop-footer.jpg) | ![Tablet Footer](images/screenshots/tablet-footer.jpg) | ![Mobile Footer](images/screenshots/phone-footer.jpg) |
+| *Desktop Footer* | *Tablet Footer* | *Mobile Footer* |
 
 ## 🛠 Tech Stack
 
