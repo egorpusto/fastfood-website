@@ -28,18 +28,18 @@ A modern, responsive, and pixel-perfect website layout for a fast food restauran
 
 | Desktop | Tablet | Mobile |
 |---------|--------|-------------|
+| *Hero Section*|
 | ![Desktop Hero](images/screenshots/desktop-hero.jpg) | ![Tablet Hero](images/screenshots/tablet-hero.jpg) | ![Mobile Hero](images/screenshots/phone-hero.jpg) |
-| *Desktop Hero* | *Tablet Hero* | *Mobile Hero* |
+| *Foodlist Section* |
 | ![Desktop Foodlist](images/screenshots/desktop-foodlist.jpg) | ![Tablet Foodlist](images/screenshots/tablet-foodlist.jpg) | ![Mobile Foodlist](images/screenshots/phone-foodlist.jpg) |
-| *Desktop Foodlist* | *Tablet Foodlist* | *Mobile Foodlist* |
+| *Order Section* |
 | ![Desktop Order](images/screenshots/desktop-order.jpg) | ![Tablet Order](images/screenshots/tablet-order.jpg) | ![Mobile Order](images/screenshots/phone-order.jpg) |
-| *Desktop Order* | *Tablet Order* | *Mobile Order* |
+| *Products Section*|
 | ![Desktop Products](images/screenshots/desktop-products.jpg) | ![Tablet Products](images/screenshots/tablet-products.jpg) | ![Mobile Products](images/screenshots/phone-products.jpg) |
-| *Desktop Products* | *Tablet Products* | *Mobile Products* |
+| *Feedback Section* |
 | ![Desktop Feedback](images/screenshots/desktop-feedback.jpg) | ![Tablet Feedback](images/screenshots/tablet-feedback.jpg) | ![Mobile Feedback](images/screenshots/phone-feedback.jpg) |
-| *Desktop Feedback* | *Tablet Feedback* | *Mobile Feedback* |
+| *Footer Section* |
 | ![Desktop Footer](images/screenshots/desktop-footer.jpg) | ![Tablet Footer](images/screenshots/tablet-footer.jpg) | ![Mobile Footer](images/screenshots/phone-footer.jpg) |
-| *Desktop Footer* | *Tablet Footer* | *Mobile Footer* |
 
 ## 🛠 Tech Stack
 
@@ -81,11 +81,11 @@ Then visit http://localhost:8000 in your browser.
 
 ## 🗂 Project Structure
 
-- `fastfood-website/`       # Main HTML file
-  - `index.html`            # Main stylesheet
-  - `styles.css`            # Project documentation (this file)
-  - `README.md`             # All images and assets
-  - `images/`
+- `fastfood-website/`       
+  - `index.html`            # Main HTML file
+  - `styles.css`            # Main stylesheet
+  - `README.md`             # Project documentation (this file)
+  - `images/`               # All images and assets
     - `icons/`
       - `socials/`
         - `facebook.png`
@@ -113,7 +113,7 @@ Then visit http://localhost:8000 in your browser.
 
 The website is easy to customize:
 
-1.  **Colors**: Change CSS custom variables in the `:root` selector (at the top of `index.css`)
+1.  **Colors**: Modify CSS variables in `styles.css`
 2.  **Content**: Replace text in `index.html` and images in the `images/` folder
 3.  **Fonts**: Update the Google Fonts link in the HTML `<head>` section
 
